@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ryanjmchale
+- 👀 I’m interested in IOS and Mac development
+- 🌱 I’m currently learning Xcode and Swift, I have history with assembley, c, java, sql and c#
